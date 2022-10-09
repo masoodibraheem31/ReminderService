@@ -1,0 +1,10 @@
+/.vs
+/Logs
+
+
+**/bin/Debug/
+**/bin/Release/
+/Reminder.BL/obj
+/Reminder.Entities/obj
+/ReminderAPI/Logs
+/ReminderAPI/obj
